@@ -27,7 +27,7 @@ export default function Router() {
       <BrowserRouter>
         <LoadingContext.Provider value={{ isLoading, setIsLoading }}>
           <Switch>
-            <Route path="/" component={App} exact />
+            <Route path="/react_blog" component={App} exact />
             <Route path="/login" component={Login} />
             <Route path="/register" component={Register} />
             <Route path="/posts/:slug" component={PostPage} />
