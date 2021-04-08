@@ -1,8 +1,8 @@
 # SPA 部落格
- 使用 React 串接 API 製作部落格
+ 一個串接 Lidemy API 的部落格系統，註冊用戶可以檢視、新增、編輯及刪除文章。
  
  [DEMO](https://bryan9411.github.io/react_blog/#/)
-
+ [Lidemy API](https://github.com/Lidemy/lidemy-student-json-api-server)
 ## 技術
 
 * React 搭配 React-router，建立具備會員系統的部落格
