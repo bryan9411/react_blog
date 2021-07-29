@@ -3,7 +3,7 @@
  
  [DEMO](https://bryan9411.github.io/react_blog/#/)
  
- [Lidemy API](https://github.com/Lidemy/lidemy-student-json-api-server)
+ [Lidemy API](https://lidemy-api.herokuapp.com/)
  
 ## 技術
 
